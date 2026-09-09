@@ -23,7 +23,7 @@ export default function Home() {
         <div className="hero__image" aria-hidden="true" />
         <div className="hero__scrim" aria-hidden="true" />
         <div className="hero__inner">
-          <div className="badge"><span className="badge__dot" />Netwerk Christenen in Nederland</div>
+          <a className="badge" href="https://christeneninnederland.nl" target="_blank" rel="noopener noreferrer"><span className="badge__dot" />Netwerk Christenen in Nederland</a>
           <p className="eyebrow">Vertaling · Studie · Herschikking</p>
           <h1 id="hero-title">Zo heb je de Bijbel<br />nog nooit gelezen</h1>
           <div className="names"><span className="names__elohim">Elohim</span><span className="names__and">&amp;</span><span className="names__yhwh">YHWH</span></div>
