@@ -31,7 +31,6 @@ export default function Home() {
           <div className="actions">
             <a className="button button--primary" href="https://1drv.ms/f/c/e7fb91e43989f306/EgbziTnkkfsggOczCQAAAAABkLA_hUoRG5wlKm8zmOmIOQ?e=sPrztW" target="_blank" rel="noopener noreferrer">Ga naar de gratis downloadmap</a>
             <a className="button button--ghost" href="https://christeneninnederland.nl" target="_blank" rel="noopener noreferrer">Bezoek Christenen in Nederland</a>
-            <a className="button button--ghost" href="#studiebijbel">Lees over de Studiebijbel</a>
           </div>
           <div className="cable" />
           <p className="cable__label">AANGESLOTEN OP DE BRON — HEBREEUWSE GRONDTEKST</p>
