@@ -29,8 +29,8 @@ export default function Home() {
           <div className="names"><span className="names__elohim">Elohim</span><span className="names__and">&amp;</span><span className="names__yhwh">YHWH</span></div>
           <p className="lead">Ervaar zelf hoe in de oorspronkelijke Hebreeuwse tekst de godsnamen Elohim en YHWH gebruikt werden — verwerkt in een chronologisch herschikte, sterk ingekorte leesversie op basis van de NBG 1951.</p>
           <div className="actions">
+            <a className="button button--ghost" href="#studiebijbel">Lees over de Studiebijbel</a>
             <a className="button button--primary" href="https://1drv.ms/f/c/e7fb91e43989f306/EgbziTnkkfsggOczCQAAAAABkLA_hUoRG5wlKm8zmOmIOQ?e=sPrztW" target="_blank" rel="noopener noreferrer">Ga naar de gratis downloadmap</a>
-            <a className="button button--ghost" href="https://christeneninnederland.nl" target="_blank" rel="noopener noreferrer">Bezoek Christenen in Nederland</a>
           </div>
           <div className="cable" />
           <p className="cable__label">AANGESLOTEN OP DE BRON — HEBREEUWSE GRONDTEKST</p>
